@@ -7,11 +7,7 @@ Motivated Data Analyst passionate about turning raw data into actionable insight
 Specialized in SQL, Power BI, Excel, and Python.
 
 ## Projects
-1. **Project 1** – Description will go here.
-2. **Project 2** – Description will go here.
-3. **Project 3** – Description will go here.
 
-*(Add more projects as you complete them)*
 
 ## Skills
 - SQL | Excel | Power BI | Python | Data Visualization | Data Cleaning
